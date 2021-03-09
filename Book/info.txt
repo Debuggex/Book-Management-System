@@ -1,0 +1,4 @@
+flow : loca: 0,60
+pic: size :30,29 loc: 3,64
+panel : size 1047,55 loc: 3,3
+label loc: 494,15
